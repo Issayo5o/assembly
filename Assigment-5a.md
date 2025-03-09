@@ -23,3 +23,13 @@ _start:
     xor ebx, ebx       ; exit code 0
     int 0x80           ; call kernel
 ```
+
+
+
+# This is my flow chart
+![flow chat assigment 5a](https://github.com/user-attachments/assets/e4998a3d-945a-48d5-8de6-3962b58f75c8)
+
+# Challenges I had with the code 
+
+
+The struggle I had with this code was making the code and setting everything up as this is the first time I am coding using assembly so a lot of the things I did was still very new to me, like using JupyterLab.
